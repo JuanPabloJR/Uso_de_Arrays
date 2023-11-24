@@ -1,0 +1,19 @@
+* {
+    background-color:black;
+    color: white;
+}
+
+.content {
+    background-color:blanchedalmond;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-evenly;
+    border: blue 1px solid;
+    padding: 10px;
+}
+.content > div {
+    border: black;
+    padding: 10px;
+    border-radius: 1rem;
+    background-color: black;
+}
